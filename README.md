@@ -5,3 +5,4 @@ Modifying README.md directly from the GitHub
 Modifying README.md on the local machine
 
 Most editors like Vim, Sublime, Visual Studio, PyCharm and Eclipse are git branch gnostic
+Also file explorer like Linux Nautilus, Windows Explorer are git branch gnostic
